@@ -6,6 +6,7 @@ a casual tool to slow down songs, or any .mp3 things.
 2. step-by-step and arguments-only mode.
 3. Support both for Linux and Windows
 4. Install dependencies automatically.
+5. Do a decent README.md , not like this shit.
 
 -Check issues
 
