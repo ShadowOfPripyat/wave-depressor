@@ -10,6 +10,9 @@ Found a bug? Accessibility issue? Then go right ahead and create an issue.
 ### Tech Stack
 This project uses:
 - [Python](https://python.org/)
+- pysndfx Library (https://pypi.org/project/pysndfx/)
+- argparse Library (common library)
+- 2 more
 
 ## Things to be Implemented
 1. Input paths
