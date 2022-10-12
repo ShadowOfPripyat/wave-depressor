@@ -2,7 +2,7 @@
 Wave-Depressor is a casual tool to slow down songs, or any .mp3 things.
 
 # :mega: Want to contribute?
-We would love to have you! Wave-Depressor is open source and we are keen on hearing what you have to say. Our [CONTRIBUTING.md file](https://github.com/ShadowOfPripyat/blob/master/CONTRIBUTING.mdwave-depressor) for any steps you might need.
+We would love to have you! Wave-Depressor is open source and we are keen on hearing what you have to say. Our [CONTRIBUTING.md file](https://github.com/ShadowOfPripyat/wave-depressor/blob/main/CONTRIBUTING.md) for any steps you might need.
 
 ## :bulb: Getting Started
 Found a bug? Accessibility issue? Then go right ahead and create an issue.
