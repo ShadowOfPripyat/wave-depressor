@@ -7,6 +7,9 @@ We would love to have you! Wave-Depressor is open source and we are keen on hear
 ## :bulb: Getting Started
 Found a bug? Accessibility issue? Then go right ahead and create an issue.
 
+# :installation: installing dependencies
+- pip install -r requirements.txt
+
 ### Tech Stack
 This project uses:
 - [Python](https://python.org/)
@@ -19,6 +22,7 @@ This project uses:
 2. step-by-step and arguments-only mode.
 3. Support both for Linux and Windows
 4. Install dependencies automatically.
+
 
 ## Notes
 A project for those who want to colaborate in the *Hacktoberfest*.
