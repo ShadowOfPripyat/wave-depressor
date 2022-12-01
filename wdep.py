@@ -1,23 +1,10 @@
 #!/usr/bin/env python
-
-import os
-os.system("clear")
-
-#Install modules
-os.system("pip install pysndfx")
-os.system("pip install argparse")
-os.system("pip install sys")
-os.system("pip install re")
-os.system("clear")
-
-# Loading modules
-from pysndfx import AudioEffectsChain
 import argparse
 import sys
 import re
 
+from pysndfx import AudioEffectsChain
 
-os.system("clear")
 
 def main():
     # Parsing for command line arguments
